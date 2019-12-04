@@ -15,3 +15,4 @@ LinkingTo:
 Imports: 
     Rcpp
 SystemRequirements: C++11
+BugReports: https://github.com/markjanko/spMLM/issues
