@@ -17,10 +17,5 @@ Imports:
     pgdraw,
     mvtnorm,
     msm
-Remotes:
-    Rcpp,
-    pgdraw,
-    mvtnorm,
-    msm
 SystemRequirements: C++11
 BugReports: https://github.com/markjanko/spMLM/issues
