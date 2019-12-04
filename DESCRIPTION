@@ -1,0 +1,17 @@
+Package: spMLM
+Type: Package
+Title: Multilevel spatial and spatial-temporal modeling
+Version: 0.1.0
+Authors@R: as.person(c(
+    "Mark Janko <mjanko@uw.edu> [aut, cre]"
+  ))
+Description: Fits multilevel spatial and spatial-temporal models.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.0
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
+SystemRequirements: C++11
