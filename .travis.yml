@@ -1,6 +1,6 @@
 # R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
 
 language: R
-cache: packages
+cache:
 
 before_install: R -e 'source("https://install-github.me/r-lib/remotes")'
