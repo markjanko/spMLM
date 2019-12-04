@@ -13,6 +13,9 @@ RoxygenNote: 7.0.0
 LinkingTo: 
     Rcpp
 Imports: 
-    Rcpp
+    Rcpp (≥ 0.12.9),
+    pgdraw (>=1.0-0),
+    mvtnorm (>=1.0.0),
+    msm (>=1.0.0)
 SystemRequirements: C++11
 BugReports: https://github.com/markjanko/spMLM/issues
